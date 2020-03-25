@@ -1,0 +1,3780 @@
+[
+    {
+        "title": "January 27th, 2020",
+        "children": [
+            {
+                "string": "This is a test",
+                "create-email": "alice@alice.com",
+                "create-time": 1580170372885,
+                "children": [
+                    {
+                        "string": "Subtest",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1580170397761,
+                        "children": [
+                            {
+                                "string": "subsubtest",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1580170562968,
+                                "uid": "8CgwUWNKt",
+                                "edit-time": 1580170571222,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "Hi there",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1580230474851,
+                                "uid": "L_sJMq_RF",
+                                "edit-time": 1580230476516,
+                                "edit-email": "bob@bob.com"
+                            },
+                            {
+                                "string": "How's your day?",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1580230476496,
+                                "uid": "nBKLT7rSZ",
+                                "edit-time": 1580230540068,
+                                "edit-email": "bob@bob.com"
+                            }
+                        ],
+                        "uid": "dqjFczgHg",
+                        "edit-time": 1580170562984,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "VfPEod8QQ",
+                "edit-time": 1580170397780,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1580165619469,
+        "edit-email": "bob@bob.com"
+    },
+    {
+        "title": "Test 2",
+        "children": [
+            {
+                "string": "((8CgwUWNKt))",
+                "create-email": "alice@alice.com",
+                "create-time": 1580170509408,
+                "uid": "9OT0_psCm",
+                "edit-time": 1580170586115,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "",
+                "create-email": "alice@alice.com",
+                "create-time": 1580170586105,
+                "uid": "_f_m9DYHc",
+                "edit-time": 1580170586105,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "",
+                "create-email": "alice@alice.com",
+                "create-time": 1580170546628,
+                "uid": "WZOaVSmA0",
+                "edit-time": 1580170546628,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1580170507701,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "January 28th, 2020",
+        "children": [
+            {
+                "string": "And here's a new day",
+                "create-email": "bob@bob.com",
+                "create-time": 1580230490027,
+                "children": [
+                    {
+                        "string": "And a block reference to your test ((VfPEod8QQ))",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1580230497900,
+                        "uid": "3p6w3F9io",
+                        "edit-time": 1580230510114,
+                        "edit-email": "bob@bob.com"
+                    },
+                    {
+                        "string": "And an embed block reference to the same {{embed: ((VfPEod8QQ))}}",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1580230510079,
+                        "uid": "4O36H01EE",
+                        "edit-time": 1580230526821,
+                        "edit-email": "bob@bob.com"
+                    },
+                    {
+                        "string": "",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1580230546078,
+                        "uid": "nm2xdR-b6",
+                        "edit-time": 1580230546077,
+                        "edit-email": "bob@bob.com"
+                    }
+                ],
+                "uid": "mbTZKWSNU",
+                "edit-time": 1580230497636,
+                "edit-email": "bob@bob.com"
+            }
+        ],
+        "edit-time": 1580226943719,
+        "edit-email": "bob@bob.com"
+    },
+    {
+        "title": "January 29th, 2020",
+        "edit-time": 1580328131454,
+        "edit-email": "bob@bob.com"
+    },
+    {
+        "title": "February 15th, 2020",
+        "children": [
+            {
+                "string": "Technology -> [[Techne]]",
+                "create-email": "alice@alice.com",
+                "create-time": 1581798488476,
+                "uid": "QNj6jUIxW",
+                "edit-time": 1582759605156,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "[[Link Budget]] relative to [[Spatial Budget]]",
+                "create-email": "bob@bob.com",
+                "create-time": 1581806950876,
+                "uid": "blp-Bm05d",
+                "edit-time": 1582757896163,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "{{[[TODO]]}} #[[Alice]] Look up [[Pony]]'s [[ORCA]] distributed garbage collection protocol",
+                "create-email": "bob@bob.com",
+                "create-time": 1581805313522,
+                "children": [
+                    {
+                        "string": "Completely async (no distributed locking or \"stop the world\")",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581805418156,
+                        "uid": "PKLSVL56H",
+                        "edit-time": 1582757896163,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "VaRL0Nud6",
+                "edit-time": 1582759864866,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "[[IPFS]]",
+                "create-email": "bob@bob.com",
+                "create-time": 1581803563771,
+                "children": [
+                    {
+                        "string": "Came up due to the need for a way to indicate priority/pinning for certain \"entities\", but there's relative valuation problems",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581803760073,
+                        "children": [
+                            {
+                                "string": "Need a market/economy system?",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581803793449,
+                                "uid": "W7pitoKyI",
+                                "edit-time": 1582757896163,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "70BiOd-Lx",
+                        "edit-time": 1582757896163,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "O7QCvExZT",
+                "edit-time": 1582757896163,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Nomenclature should not mislead",
+                "create-email": "bob@bob.com",
+                "create-time": 1581800870413,
+                "uid": "g_qtx0L_I",
+                "edit-time": 1582757896163,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "#project Build [[Unbase]]",
+                "create-email": "bob@bob.com",
+                "create-time": 1581798926505,
+                "uid": "RimRHOzwZ",
+                "edit-time": 1582757896163,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "#project Build [[Roam]]",
+                "create-email": "bob@bob.com",
+                "create-time": 1581798980516,
+                "uid": "7OIr6xj0n",
+                "edit-time": 1582757896164,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "[[Sensemaker's Summit]]",
+                "create-email": "bob@bob.com",
+                "create-time": 1581798461690,
+                "uid": "Fol-f6oST",
+                "edit-time": 1582757896164,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896164,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "February 16th, 2020",
+        "children": [
+            {
+                "string": "",
+                "create-email": "alice@alice.com",
+                "create-time": 1581906347923,
+                "uid": "coC6cKuW2",
+                "edit-time": 1581906347923,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1581906151809,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "February 18th, 2020",
+        "edit-time": 1582757896166,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "February 26th, 2020",
+        "children": [
+            {
+                "string": "Import",
+                "create-email": "alice@alice.com",
+                "create-time": 1582757896175,
+                "children": [
+                    {
+                        "string": "[[]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896167,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896166,
+                                "uid": "8GG1FLQy9",
+                                "edit-time": 1582757896166,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "bRxcohbJ4",
+                        "edit-time": 1582757896167,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Beacon Clock]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896167,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896167,
+                                "uid": "OJnYuBktR",
+                                "edit-time": 1582757896167,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "RjwVO080r",
+                        "edit-time": 1582757896167,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Memo]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896167,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896167,
+                                "uid": "NkQ_KQL8r",
+                                "edit-time": 1582757896167,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "YW_lqQ-B4",
+                        "edit-time": 1582757896167,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Index]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896167,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896167,
+                                "uid": "UILOSXlQ1",
+                                "edit-time": 1582757896167,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "b_K9BnlqC",
+                        "edit-time": 1582757896167,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[TODO]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896168,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896168,
+                                "uid": "il4AN81D_",
+                                "edit-time": 1582757896168,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "qR0_P4yBQ",
+                        "edit-time": 1582757896168,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Store]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896168,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896168,
+                                "uid": "VYIUHTdaX",
+                                "edit-time": 1582757896168,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "Q2DZAG8sg",
+                        "edit-time": 1582757896168,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[February 23rd, 2020]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896168,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896168,
+                                "uid": "595503Ntm",
+                                "edit-time": 1582757896168,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "kbAkTxJqT",
+                        "edit-time": 1582757896168,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[DAG]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896168,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896168,
+                                "uid": "S9W70PfJ2",
+                                "edit-time": 1582757896168,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "i1sY7p5w7",
+                        "edit-time": 1582757896168,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[ORCA]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896168,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896168,
+                                "uid": "6MDt1-SZv",
+                                "edit-time": 1582757896168,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "mWFktRa0X",
+                        "edit-time": 1582757896168,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Unbase]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896168,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896168,
+                                "uid": "EKkgXf0Tv",
+                                "edit-time": 1582757896168,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "q7u6W86UB",
+                        "edit-time": 1582757896168,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Spatial Budget]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896169,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896168,
+                                "uid": "A1rtDSn93",
+                                "edit-time": 1582757896168,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "NdzqCBiAF",
+                        "edit-time": 1582757896169,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Analogical Reasoning Schema]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896169,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896169,
+                                "uid": "J8G86A0T-",
+                                "edit-time": 1582757896169,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "t1sj6Wytf",
+                        "edit-time": 1582757896169,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[project]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896169,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896169,
+                                "uid": "OPWgTe0Pu",
+                                "edit-time": 1582757896169,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "9lhT5eaND",
+                        "edit-time": 1582757896169,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[LiveShare]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896169,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896169,
+                                "uid": "P6KQc0Q2Y",
+                                "edit-time": 1582757896169,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "pdxL984WW",
+                        "edit-time": 1582757896169,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[February 26th, 2020]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896169,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896169,
+                                "uid": "C--VMQ3lD",
+                                "edit-time": 1582757896169,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "kAChRoKBi",
+                        "edit-time": 1582757896169,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[my]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896169,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896169,
+                                "uid": "mduemPaIG",
+                                "edit-time": 1582757896169,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "8N_p05r8b",
+                        "edit-time": 1582757896169,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[February 22nd, 2020]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896169,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896169,
+                                "uid": "hukZ4rgp_",
+                                "edit-time": 1582757896169,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "HxKGGgI-b",
+                        "edit-time": 1582757896169,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Alice]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "uGwz4fwX-",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "Q5yuFtNFu",
+                        "edit-time": 1582759864866,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Agent]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "hm7ipICCS",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "2QH_L8jEx",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Link Budget]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "j5hkE8A0H",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "WE3ys1Vz5",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Techne]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "EqdQPqHOd",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "FHZZ_66gH",
+                        "edit-time": 1582759605156,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Operational Transform]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "ZAKQMaLb0",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "VNxFfqhfo",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[consider]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "wk4ThWFD1",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "Kbl6XSJgG",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[MemoRef]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "jcIATiibq",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "n4AUJtBHu",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Subject]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "waRvMAIfK",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "eafFgP_z_",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Head]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "z_q0TjXm6",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "plnepnwu8",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Allegation]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "gKSNI-z9a",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "npm9T2Qj7",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Network]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "nb-RWGSY2",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "DatExT7rZ",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Pony]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "YoxKLjoOn",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "xdLNWv-Od",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Merkle tree]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896170,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "K60Z3qi86",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "Ni8CuYpMP",
+                        "edit-time": 1582757896170,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Clojure]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896171,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896170,
+                                "uid": "OW2xqF65d",
+                                "edit-time": 1582757896170,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "PbbzMv2xJ",
+                        "edit-time": 1582757896171,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Bob]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896172,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896172,
+                                "uid": "M99uAgG7s",
+                                "edit-time": 1582757896172,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "Sg_e2a8PU",
+                        "edit-time": 1582757896172,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Alice]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896172,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896172,
+                                "uid": "RthoWCd-Z",
+                                "edit-time": 1582757896172,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "-ZWMIqAPo",
+                        "edit-time": 1582759961096,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[SlabRef]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896172,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896172,
+                                "uid": "EKNn90Mu4",
+                                "edit-time": 1582757896172,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "jOGS4pMRv",
+                        "edit-time": 1582757896172,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Record]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896172,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896172,
+                                "uid": "fC0Nci2J5",
+                                "edit-time": 1582757896172,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "mQoLNST4N",
+                        "edit-time": 1582757896172,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Fressian]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896172,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896172,
+                                "uid": "gAIYjYdQ2",
+                                "edit-time": 1582757896172,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "EIU_kI1Yw",
+                        "edit-time": 1582757896172,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[SlabAgent]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896172,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896172,
+                                "uid": "_sKgHYyZj",
+                                "edit-time": 1582757896172,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "drU5-VAgW",
+                        "edit-time": 1582757896172,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Entity]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896172,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896172,
+                                "uid": "7iIxdqoH8",
+                                "edit-time": 1582757896172,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "NDR-ul32J",
+                        "edit-time": 1582757896172,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[February 15th, 2020]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "vFoTGZ_U1",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "cflpV4bWp",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Spanner]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "rGCx0rCR0",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "g1yn7Zp8t",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Roam]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "c5skuAimo",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "iCRDnLV60",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Math Questions]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "T20Wwn2fy",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "--R-YddBZ",
+                        "edit-time": 1582758125987,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[IPFS]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "hssdH4aOA",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "p14FYe7nB",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[SlabState]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "puJzjAPzj",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "QdF54ydbI",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Slab]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "e2_6NVemh",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "GgqhhhZbf",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Sled]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "bpavQQ5hA",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "HGsMXxlpM",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Wallclock]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "HSApIupUP",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "8nm3wI_E6",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[February 25th, 2020]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "pYJsP3yz3",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "WbUs2aFD2",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[fairy circle]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "MS7ng1TBZ",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "hdpyH8dPK",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[February 18th, 2020]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "quU8PwzFf",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "rBmz_2U98",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[February 24th, 2020]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757896174,
+                        "children": [
+                            {
+                                "string": "From: aardvark.json",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757896174,
+                                "uid": "dwfIFDkuK",
+                                "edit-time": 1582757896174,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "qmsa18uCb",
+                        "edit-time": 1582757896174,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "U-VpyheGp",
+                "edit-time": 1582757896175,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Added to [[Math Questions]]",
+                "create-email": "alice@alice.com",
+                "create-time": 1582746422966,
+                "uid": "sry3LeyT2",
+                "edit-time": 1582758125987,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "",
+                "create-email": "alice@alice.com",
+                "create-time": 1582751056091,
+                "uid": "OAeEtPOtV",
+                "edit-time": 1582757896159,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896176,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Research",
+        "edit-time": 1582753944004,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582753917595,
+        "title": "TODO",
+        "edit-time": 1582757896154,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582754059702,
+        "title": "Commutative Hashing",
+        "children": [
+            {
+                "string": "[[Unbase]] will have many many concurrencies across a system which must be efficiently converged if the system is to function",
+                "create-email": "alice@alice.com",
+                "create-time": 1582754063736,
+                "children": [
+                    {
+                        "string": "It is an express goal that ((d4yel8seT))",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582755269068,
+                        "uid": "Rvb8fb5t4",
+                        "edit-time": 1582755300581,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "The convergence of these concurrencies must be able to occur in a pairwise fashion, and in orders which are unpredictable",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582754251079,
+                        "uid": "uxh4GyH_o",
+                        "edit-time": 1582754286470,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "A given set of concurrent operations must be able to be merged in a pairwise fashion (or N-wise fashion)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582754450315,
+                        "uid": "zYlduJzmA",
+                        "edit-time": 1582754463176,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "the \"Final\" converged [[Memo]] must arrive at the same identity as (and collide, be isomorphic to, idempotent with) other final converged Memos which were arrived at by different orderings and pairings of concurrent memos and their intermediates",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582754286460,
+                        "uid": "QUQKUOuDM",
+                        "edit-time": 1582754617957,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "_TtQQy45y",
+                "edit-time": 1582755231489,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "How do we do this efficiently?",
+                "create-email": "alice@alice.com",
+                "create-time": 1582754618054,
+                "children": [
+                    {
+                        "string": "Do we utilize lexicographic ordering of N-wise concurrent memos (and their concurrent N-wise intermediates) to power an associative N-wise convergence process?",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582754644812,
+                        "children": [
+                            {
+                                "string": "This should work, but the requirement of lexicographic ordering may reduce the efficiency of the convergence proces",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582754808087,
+                                "uid": "TTeh8g6ho",
+                                "edit-time": 1582754853993,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "W6tNVYiD0",
+                        "edit-time": 1582754807551,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "What other options might be available?",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582758688575,
+                        "uid": "kjHJVBJd8",
+                        "edit-time": 1582758690728,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "cWE-Z30va",
+                "edit-time": 1582758716694,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": " #Research",
+                "create-email": "alice@alice.com",
+                "create-time": 1582754854014,
+                "children": [
+                    {
+                        "string": "{{[[TODO]]}} Investigate [[IPFS]] [Rolling/Commutative hashes](https://github.com/IPFS/notes/issues/83) #[[Commutative Hashing]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582754035422,
+                        "uid": "MmXkUlAH5",
+                        "edit-time": 1582759509520,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "{{[[TODO]]}} [Cryptographically secure keyed rolling hash function](https://crypto.stackexchange.com/questions/16082/cryptographically-secure-keyed-rolling-hash-function) #[[Commutative Hashing]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582754059690,
+                        "uid": "PVbXlxsZd",
+                        "edit-time": 1582758696610,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[Wiki Rolling Hash](https://en.wikipedia.org/wiki/Rolling_hash)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582756325972,
+                        "uid": "G_VprZ7mo",
+                        "edit-time": 1582758696610,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "9iDMZJQ5k",
+                "edit-time": 1582758799577,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582754154277,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582754186409,
+        "title": "Unbase",
+        "children": [
+            {
+                "string": "Notes from call",
+                "create-email": "alice@alice.com",
+                "create-time": 1582757993398,
+                "children": [
+                    {
+                        "string": "Bookkeeping overhead...",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1581807388231,
+                        "uid": "K2iPTMoQn",
+                        "edit-time": 1582757896155,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "{{[[TODO]]}} #[[Alice]] Check out [[Fressian]] [binary encoding](https://github.com/clojure/data.fressian) library from the [[Clojure]] ecosystem for inspiration on serialization",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581812390775,
+                        "uid": "S7qD9LVRJ",
+                        "edit-time": 1582759864866,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Beacon Clock]]",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581810282704,
+                        "uid": "xnngEAR4X",
+                        "edit-time": 1582757896155,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "{{[[TODO]]}} #Bob Do associative hashes lose cryptographic guarantees? ",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581809430177,
+                        "uid": "LsQ4wb4w_",
+                        "edit-time": 1582757896155,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "\"Unreasonably long\" in terms of what? Relative to what measuring stick?",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581808930635,
+                        "children": [
+                            {
+                                "string": "Once I determine the need for a particular set of data in order to complete a query",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581809000371,
+                                "children": [
+                                    {
+                                        "string": "How far from me is it stored? (probabilistic distribution of this)",
+                                        "create-email": "bob@bob.com",
+                                        "create-time": 1581809036484,
+                                        "uid": "FFcJb8_ne",
+                                        "edit-time": 1582757896155,
+                                        "edit-email": "alice@alice.com"
+                                    },
+                                    {
+                                        "string": "How long does the entire operation take from that point to query completion? (minus the raw transport time, tare that)",
+                                        "create-email": "bob@bob.com",
+                                        "create-time": 1581809298750,
+                                        "uid": "IQo6y5mDs",
+                                        "edit-time": 1582757896155,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "woKsyblKk",
+                                "edit-time": 1582757896156,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "Z6X4jzbSs",
+                        "edit-time": 1582757896156,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "{{[[TODO]]}}  Need to define relevant dimensions",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581808806069,
+                        "children": [
+                            {
+                                "string": "Which intersect?",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581808832344,
+                                "uid": "7Hm7_ol8T",
+                                "edit-time": 1582757896156,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "Which are coupled/correlated?",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581808848450,
+                                "children": [
+                                    {
+                                        "string": "By what sort of relationship? (what's the shape of the manifold over this dimensional space)",
+                                        "create-email": "bob@bob.com",
+                                        "create-time": 1581808864754,
+                                        "uid": "KMTVq-cHn",
+                                        "edit-time": 1582757896156,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "Qzau9GLmV",
+                                "edit-time": 1582757896156,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "nuZ_eRDVS",
+                        "edit-time": 1582757896156,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Aggregated write traffic across the system should be able to be greater than the read capacity of the largest single \"node\"",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581804818389,
+                        "uid": "iP7DM9PkH",
+                        "edit-time": 1582757896156,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Minimal data packet = info content of message identifier + description of operation",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581807072744,
+                        "uid": "34ByyDwjV",
+                        "edit-time": 1582757896156,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "**How many marbles can you fit in a jar where the size of each marble depends on the number of marbles in the jar? **",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581807183928,
+                        "children": [
+                            {
+                                "string": "In this analogy, does the \"jar\" size change in some dynamic relationship with the marble sizes and number of marbles?",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581944379591,
+                                "children": [
+                                    {
+                                        "string": "Maybe the right approach may be to look for boundary conditions, within which relative stability can be maintained and constellations form (ala [[fairy circle]]s)",
+                                        "create-email": "bob@bob.com",
+                                        "create-time": 1581944422857,
+                                        "uid": "dgPsfK8as",
+                                        "edit-time": 1582757896156,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "i2tVzX2zi",
+                                "edit-time": 1582757896156,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "_JLYJp6Wc",
+                        "edit-time": 1582757896156,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "\"Hashing\" function sufficient to constitute",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581804936039,
+                        "children": [
+                            {
+                                "string": "A valid [[Merkle tree]]",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581805090702,
+                                "uid": "WIA_swro1",
+                                "edit-time": 1582757896156,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "9F5wXbDBd",
+                        "edit-time": 1582757896156,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Entities can have cyclic references once you take into account the queri context",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581804921785,
+                        "uid": "w9Nl8J2eA",
+                        "edit-time": 1582757896156,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Memo structure is a [[DAG]]",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581805004701,
+                        "uid": "EOul2NVsW",
+                        "edit-time": 1582757896156,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Slab]]",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581803956933,
+                        "children": [
+                            {
+                                "string": "Block of durable storage (eg key-value) ",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581803976714,
+                                "uid": "DoGcZW3gF",
+                                "edit-time": 1582757896157,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "Memos get emitted into slabs",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581803992460,
+                                "uid": "qVHqNRClD",
+                                "edit-time": 1582757896157,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "yyuq913xh",
+                        "edit-time": 1582757896157,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Selective hearing",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581804305558,
+                        "children": [
+                            {
+                                "string": "Probability of assimilating an fully-materialized/projected root (or higher up) node, or ignoring it.",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581804314081,
+                                "uid": "hH7zO35O1",
+                                "edit-time": 1582757896157,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "JXUPB93sL",
+                        "edit-time": 1582757896157,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Commutative merging ",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581804513269,
+                        "uid": "ETW8XZa1g",
+                        "edit-time": 1582757896157,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Compaction",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581802911205,
+                        "children": [
+                            {
+                                "string": "Fully materialize and durably store the result of projection in order to bound how deeply into the lazy tree of diffs we need to look",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581802912687,
+                                "children": [
+                                    {
+                                        "string": "Degenerate case would be a single event stream aggregating to a state projection",
+                                        "create-email": "bob@bob.com",
+                                        "create-time": 1581803597972,
+                                        "uid": "UWJbeWl5e",
+                                        "edit-time": 1582757896157,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "pkfMInhhZ",
+                                "edit-time": 1582757896157,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "Can also be partial",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581804111005,
+                                "children": [
+                                    {
+                                        "string": "More likely/valuable to compact further down the tree",
+                                        "create-email": "bob@bob.com",
+                                        "create-time": 1581804119669,
+                                        "children": [
+                                            {
+                                                "string": "Closer to the root note (should) be \"hotter\" (more contention/updates), so less valuable to project",
+                                                "create-email": "bob@bob.com",
+                                                "create-time": 1581804145598,
+                                                "uid": "tsY3V4e04",
+                                                "edit-time": 1582757896158,
+                                                "edit-email": "alice@alice.com"
+                                            }
+                                        ],
+                                        "uid": "8InSpCUC9",
+                                        "edit-time": 1582757896158,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "XJ_0vrARK",
+                                "edit-time": 1582757896158,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "SCNYZ1V8e",
+                        "edit-time": 1582757896158,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Asymptotic towards the property",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581802437882,
+                        "children": [
+                            {
+                                "string": "If a memo was ever reachable from my query context, it will always be (barring operational concerns)",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581802636429,
+                                "children": [
+                                    {
+                                        "string": "No forgetting memos",
+                                        "create-email": "bob@bob.com",
+                                        "create-time": 1581802821276,
+                                        "uid": "buyctHG66",
+                                        "edit-time": 1582757896158,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "vavLrry9b",
+                                "edit-time": 1582757896158,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "NlGdAbshh",
+                        "edit-time": 1582757896158,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "operation",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581800422241,
+                        "children": [
+                            {
+                                "string": "Logentry, diff, not the entire state,eg [[Operational Transform]]",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581800772800,
+                                "uid": "OpoNkT9rh",
+                                "edit-time": 1582757896158,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "h-3asv_JA",
+                        "edit-time": 1582757896158,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "memo",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581801698069,
+                        "children": [
+                            {
+                                "string": "Immutable chunk of data",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581801696233,
+                                "uid": "gL2XW2Gk7",
+                                "edit-time": 1582757896158,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "Either a fully materialized, or partial/update/diff/operation, which would need to be combined with priors to bottom out at a fully realized value",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581801696233,
+                                "uid": "zP6peRX-W",
+                                "edit-time": 1582757896158,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "R3FGLBEsJ",
+                        "edit-time": 1582757896158,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "o9e7OVHkX",
+                "edit-time": 1582758002475,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896158,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582754330863,
+        "title": "Memo",
+        "edit-time": 1582757896154,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582755004699,
+        "title": "Entity",
+        "edit-time": 1582757896163,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Unbase Goals",
+        "children": [
+            {
+                "string": "The system must be capable of handling single-[[Entity]] concurrencies whose aggregate traffic vastly outpaces than the available network/CPU bandwidth of __any__ of the participating nodes. ",
+                "create-email": "alice@alice.com",
+                "create-time": 1582755241557,
+                "uid": "d4yel8seT",
+                "edit-time": 1582755251622,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582755238364,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582755841877,
+        "title": "LibP2P",
+        "edit-time": 1582755841887,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756029207,
+        "title": "golang",
+        "edit-time": 1582756029217,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756067351,
+        "title": "Braid",
+        "edit-time": 1582756067355,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756134245,
+        "title": "offline",
+        "edit-time": 1582756134263,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756153112,
+        "title": "Redwood",
+        "edit-time": 1582756153123,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756239143,
+        "title": "clientserver",
+        "edit-time": 1582756239148,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Development Resources",
+        "children": [
+            {
+                "string": "Concurrency Control",
+                "create-email": "alice@alice.com",
+                "create-time": 1582756360959,
+                "children": [
+                    {
+                        "string": "[Crossbeam ArcCell](https://crates.io/crates/crossbeam-arccell) #rust",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582756367172,
+                        "children": [
+                            {
+                                "string": "\"Updatable Arc implementation using crossbeam-epoch for memory reclamation\"",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582756384755,
+                                "uid": "w9waufaEI",
+                                "edit-time": 1582756420356,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "oHk4vt96z",
+                        "edit-time": 1582756391654,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "vaN0PeZ0A",
+                "edit-time": 1582756367181,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582756355511,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756391657,
+        "title": "rust",
+        "edit-time": 1582756391660,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "IPFS",
+        "children": [
+            {
+                "string": "[MacWright IPFS critique](https://macwright.org/2019/06/08/ipfs-again.html) June 08, 2019",
+                "create-email": "alice@alice.com",
+                "create-time": 1582756433911,
+                "children": [
+                    {
+                        "string": "\"The IPFS future is exciting. But we aren’t there yet, and I’m not sure we will be.\"",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582756453419,
+                        "uid": "TGphNveSi",
+                        "edit-time": 1582756475143,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[Tom MacWright Twitter profile](https://twitter.com/tmcw)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757009355,
+                        "uid": "R3SQyUlHM",
+                        "edit-time": 1582757039402,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "3iDyfBhmD",
+                "edit-time": 1582757024573,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "",
+                "create-email": "alice@alice.com",
+                "create-time": 1582756475964,
+                "uid": "3489y1OcR",
+                "edit-time": 1582756475964,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896165,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "LoRa",
+        "children": [
+            {
+                "string": "[[LibP2P]] [[LoRa]] bridge [Demo](https://gateway.temporal.cloud/ipfs/QmSoJnCaJCVigMKuLSLVa3kjh2JXZxFp62HTZo867nKNST)",
+                "create-email": "alice@alice.com",
+                "create-time": 1582756609477,
+                "uid": "hKWbYR3iL",
+                "edit-time": 1582756661044,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "",
+                "create-email": "alice@alice.com",
+                "create-time": 1582756662962,
+                "uid": "pEoIZojwd",
+                "edit-time": 1582756662962,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582756602838,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756708698,
+        "title": "TIKV",
+        "edit-time": 1582756708708,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756737258,
+        "title": "keyvalue",
+        "edit-time": 1582756737270,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756741206,
+        "title": "acid",
+        "edit-time": 1582756741212,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756759412,
+        "title": "GunDB",
+        "children": [
+            {
+                "string": "Public Content",
+                "create-email": "alice@alice.com",
+                "create-time": 1582756800651,
+                "children": [
+                    {
+                        "string": "[Hackernews thread including some criticism and light analysis](https://news.ycombinator.com/item?id=17685682)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582756764806,
+                        "uid": "gERTGStdw",
+                        "edit-time": 1582756810890,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[GunDB a Graph Database in JavaScript](https://frontendgods.com/gundb-a-graph-database-in-javascript/)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757071528,
+                        "children": [
+                            {
+                                "string": "Mostly about API surface, but some modest implementation details",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582757107169,
+                                "uid": "0jjAd7gSH",
+                                "edit-time": 1582757124834,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "Eq_vR1sL9",
+                        "edit-time": 1582757086453,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "3pe-HCrj_",
+                "edit-time": 1582757067976,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Official Resources",
+                "create-email": "alice@alice.com",
+                "create-time": 1582756836506,
+                "children": [
+                    {
+                        "string": "[Porting GunDB](https://gun.eco/docs/Porting-GUN)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582756840633,
+                        "uid": "xaGJcBiwY",
+                        "edit-time": 1582757127480,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "qgnBVHE7X",
+                "edit-time": 1582756840642,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582756759418,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582756948696,
+        "title": "Outernet",
+        "edit-time": 1582756948707,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757265176,
+        "title": "Hugging Face",
+        "edit-time": 1582757265182,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Who's Who",
+        "children": [
+            {
+                "string": "Wei Dai",
+                "create-email": "alice@alice.com",
+                "create-time": 1582753392790,
+                "children": [
+                    {
+                        "string": "Computer scientist and cryptographer",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582753526709,
+                        "uid": "BBT_OEhb2",
+                        "edit-time": 1582757325269,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Referenced by [[Satoshi Nakamoto]] in whitepaper",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582753539605,
+                        "uid": "7Sowm4Pgv",
+                        "edit-time": 1582757325270,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "BlockWhat [\"Wei Dai - Who Dat\"](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582753403785,
+                        "uid": "WMv65LUyO",
+                        "edit-time": 1582757325269,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "jxEeaB0A5",
+                "edit-time": 1582757325270,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "[ZmnSCPxj](https://zmnscpxj.github.io/about.html)",
+                "create-email": "alice@alice.com",
+                "create-time": 1582753691936,
+                "children": [
+                    {
+                        "string": "\"Randomly-generated internet person\"",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582753695577,
+                        "uid": "iOqSNWYBE",
+                        "edit-time": 1582757325269,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "\"I think my identity is largely immaterial,\nand prefer to be judged by my work\"",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582753780135,
+                        "uid": "y7gQ99O2x",
+                        "edit-time": 1582757325269,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Writing topics:",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582753802844,
+                        "children": [
+                            {
+                                "string": "Sidechain",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582753832705,
+                                "uid": "NLzO17Pp_",
+                                "edit-time": 1582757325269,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "Offchain",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582753834727,
+                                "uid": "aXnx06cJk",
+                                "edit-time": 1582757325269,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "Bitcoin",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582753807488,
+                                "uid": "B9fjA9RDr",
+                                "edit-time": 1582757325269,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "kIqDA0ewP",
+                        "edit-time": 1582757325269,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "tFkrNUgUv",
+                "edit-time": 1582757325269,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757321767,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757325318,
+        "title": "Satoshi Nakamoto",
+        "edit-time": 1582757325321,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896035,
+        "title": "",
+        "edit-time": 1582757896166,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896035,
+        "title": "Beacon Clock",
+        "edit-time": 1582757896167,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896036,
+        "title": "Index",
+        "edit-time": 1582757896167,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896038,
+        "title": "Store",
+        "edit-time": 1582757896168,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896038,
+        "title": "February 23rd, 2020",
+        "edit-time": 1582757896168,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896040,
+        "title": "DAG",
+        "edit-time": 1582757896168,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896040,
+        "title": "ORCA",
+        "edit-time": 1582757896168,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896061,
+        "title": "Fressian",
+        "edit-time": 1582757896172,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896053,
+        "title": "Clojure",
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896063,
+        "title": "Alice",
+        "children": [
+            {
+                "string": "Learning Style",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759874520,
+                "children": [
+                    {
+                        "string": "It seems that [[Alice]]'s most potent skill is to take a small number of concrete datapoints, and synthesize the abstraction from that.",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582747319752,
+                        "uid": "GDWHYhKAY",
+                        "edit-time": 1582759866851,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Alice]] feels that he learns very poorly from direct teachings about the abstraction itself.",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582747330083,
+                        "children": [
+                            {
+                                "string": "Perhaps this is ironic, given that I am so comfortable talking about abstract concepts which I already understand, yet absorb them so poorly in this fashion. ",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582747028965,
+                                "uid": "eQlRbOpd5",
+                                "edit-time": 1582759866851,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "_9QQamJum",
+                        "edit-time": 1582759922236,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "4O9c9-rnc",
+                "edit-time": 1582759878728,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759864866,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896058,
+        "title": "Bob",
+        "edit-time": 1582757896172,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896066,
+        "title": "fairy circle",
+        "edit-time": 1582757896174,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896053,
+        "title": "Merkle tree",
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896065,
+        "title": "Slab",
+        "children": [
+            {
+                "string": "",
+                "create-email": "bob@bob.com",
+                "create-time": 1582403292067,
+                "uid": "hMwL6bHAR",
+                "edit-time": 1582757896166,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896174,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896049,
+        "title": "Operational Transform",
+        "children": [
+            {
+                "string": "",
+                "create-email": "alice@alice.com",
+                "create-time": 1582757980182,
+                "uid": "3NxjfMlPW",
+                "edit-time": 1582757980182,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896041,
+        "title": "Spatial Budget",
+        "edit-time": 1582757896168,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896042,
+        "title": "Analogical Reasoning Schema",
+        "children": [
+            {
+                "string": "Requirements:",
+                "create-email": "alice@alice.com",
+                "create-time": 1582751088642,
+                "children": [
+                    {
+                        "string": "Must be able to record [[Allegation]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582751138913,
+                        "uid": "uBF8yjlG3",
+                        "edit-time": 1582757896158,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": " ",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582751114270,
+                        "uid": "_TuYIvLGV",
+                        "edit-time": 1582757896158,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "hbDdu_K5V",
+                "edit-time": 1582757896158,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896169,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896051,
+        "title": "Allegation",
+        "children": [
+            {
+                "string": "An Allegation is an immutable statement, observation, or measurement which is recorded by, and attributed to some agent",
+                "create-email": "alice@alice.com",
+                "create-time": 1582751143097,
+                "uid": "PB9LmO3-o",
+                "edit-time": 1582757896161,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "It may contain provenance information, such as:",
+                "create-email": "alice@alice.com",
+                "create-time": 1582751186213,
+                "children": [
+                    {
+                        "string": "User/Sensor/other [[Agent]] identity",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582751208693,
+                        "uid": "Goqtk_O4k",
+                        "edit-time": 1582757896161,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Local [[Wallclock]] time of the [[Agent]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582751217803,
+                        "uid": "nO-eT0bvH",
+                        "edit-time": 1582757896162,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582751281346,
+                        "uid": "p48qDuJns",
+                        "edit-time": 1582757896162,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "ZzCOfNh2W",
+                "edit-time": 1582757896162,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896042,
+        "title": "project",
+        "children": [
+            {
+                "string": "Metadata to all projects",
+                "create-email": "bob@bob.com",
+                "create-time": 1581799003804,
+                "uid": "6_-UOUhyt",
+                "edit-time": 1582757896159,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896169,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896043,
+        "title": "LiveShare",
+        "edit-time": 1582757896169,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896063,
+        "title": "Math Questions",
+        "children": [
+            {
+                "string": "",
+                "create-email": "alice@alice.com",
+                "create-time": 1582747110507,
+                "uid": "HCMWkMW5S",
+                "edit-time": 1582759752796,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582758125987,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896043,
+        "title": "my",
+        "edit-time": 1582757896169,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896045,
+        "title": "February 22nd, 2020",
+        "children": [
+            {
+                "string": "[[Spanner]]",
+                "create-email": "bob@bob.com",
+                "create-time": 1582405968694,
+                "uid": "dlgZzHt9P",
+                "edit-time": 1582757896159,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Live-pairing ([[Bob]] and [[Alice]])",
+                "create-email": "bob@bob.com",
+                "create-time": 1582403414097,
+                "children": [
+                    {
+                        "string": "Using [[LiveShare]]",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582403433363,
+                        "uid": "HaPSjvpwF",
+                        "edit-time": 1582757896159,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Slab]] holds/stores [[Memo]]s",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582403596537,
+                        "uid": "ttg0inbY4",
+                        "edit-time": 1582757896159,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Network]]  reference per OS process",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582403621879,
+                        "uid": "1LjgkZgQ5",
+                        "edit-time": 1582757896159,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Entity]] (formerly [[Subject]])",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582403758098,
+                        "uid": "je3nFfri1",
+                        "edit-time": 1582757896159,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[SlabAgent]] is externally immutable",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582404040419,
+                        "children": [
+                            {
+                                "string": "[[Sled]] has it's own way of handling internal mutability (what [[SlabState]] was before)",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1582404062646,
+                                "children": [
+                                    {
+                                        "string": "Currently being refactored to [[Store]]",
+                                        "create-email": "bob@bob.com",
+                                        "create-time": 1582404276788,
+                                        "uid": "QI1vGsZiJ",
+                                        "edit-time": 1582757896160,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "akVtpQDrB",
+                                "edit-time": 1582757896160,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "MjbJXIz1p",
+                        "edit-time": 1582757896160,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "{{[[TODO]]}} #Bob #this-week Review code with `update_index` in name",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582404614852,
+                        "uid": "39K3gy7V1",
+                        "edit-time": 1582757896160,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Entity]]s have type [[Index]] or [[Record]]",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582404738124,
+                        "uid": "7YYy8hDai",
+                        "edit-time": 1582757896160,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Head]]",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582404845940,
+                        "children": [
+                            {
+                                "string": "Each Entity specifies one Head. (Heads may or may not be entities)",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1582404881774,
+                                "uid": "tROhWW_hn",
+                                "edit-time": 1582757896160,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "Points to any [[MemoRef]]s that are candidates for the \"latest\" we're aware of for an [[Entity]]",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1582404884989,
+                                "uid": "Q1Bz7kJeA",
+                                "edit-time": 1582757896160,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "Qldn2cMcJ",
+                        "edit-time": 1582757896160,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "`store.rs` is in flux (mapping [[Slab]]s to storage via [[Sled]])",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582406836492,
+                        "uid": "_mQQgMx7y",
+                        "edit-time": 1582757896160,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[SlabRef]] acts as a pointer to the underlying [[Slab]] which may be local OR remote",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582407881193,
+                        "uid": "z9E3hLfFg",
+                        "edit-time": 1582757896160,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "#consider [[Memo]] hashing",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1582407311225,
+                        "children": [
+                            {
+                                "string": "Commutative hashing",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1582407336379,
+                                "children": [
+                                    {
+                                        "string": "ID as hash of contents",
+                                        "create-email": "bob@bob.com",
+                                        "create-time": 1582407355156,
+                                        "uid": "qxeL1pRoL",
+                                        "edit-time": 1582757896160,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "HW_dfC-sO",
+                                "edit-time": 1582757896160,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "Lazy hashing",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582408466598,
+                                "uid": "gWkVQzZfG",
+                                "edit-time": 1582757896160,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "5pcWIaghR",
+                        "edit-time": 1582757896161,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "Ffy9_eB1f",
+                "edit-time": 1582759864866,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896169,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896062,
+        "title": "Spanner",
+        "edit-time": 1582757896174,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896051,
+        "title": "Network",
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896050,
+        "title": "Subject",
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896061,
+        "title": "SlabAgent",
+        "edit-time": 1582757896172,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896066,
+        "title": "Sled",
+        "edit-time": 1582757896174,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896065,
+        "title": "SlabState",
+        "edit-time": 1582757896174,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896060,
+        "title": "this-week",
+        "edit-time": 1582757896172,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896061,
+        "title": "Record",
+        "edit-time": 1582757896172,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896051,
+        "title": "Head",
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896049,
+        "title": "MemoRef",
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896060,
+        "title": "SlabRef",
+        "edit-time": 1582757896172,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896049,
+        "title": "consider",
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896046,
+        "title": "Agent",
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896047,
+        "title": "Link Budget",
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896047,
+        "title": "Techne",
+        "children": [
+            {
+                "string": "\"Art, skill, craft, or the way, manner, or means by which a thing is gained\"",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759606458,
+                "uid": "yO8cuucjn",
+                "edit-time": 1582759669964,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Similar to Technology (arguably it's the same) except that most people think of technology as a gadget",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759672690,
+                "uid": "oBqCgwsKk",
+                "edit-time": 1582759693237,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Example: Human Language is a Techne",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759693425,
+                "uid": "CB1MHmzDj",
+                "edit-time": 1582759703406,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759605156,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896048,
+        "title": "Sensemaker's Summit",
+        "children": [
+            {
+                "string": "Type of thing: Idea",
+                "create-email": "bob@bob.com",
+                "create-time": 1581798643110,
+                "uid": "QaV0qGi5M",
+                "edit-time": 1582757896161,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Problem Statement: Isn't it kind of a shame that there are dozens of folks working in their basements on this same problem? Economic realities necessitate that we will likely have minimal direct collaboration, but wouldn't it be cool to have some folks to talk to about this to better hone and refine our ides?",
+                "create-email": "alice@alice.com",
+                "create-time": 1581797900196,
+                "children": [
+                    {
+                        "string": "\"Same problem\"?",
+                        "create-email": "bob@bob.com",
+                        "create-time": 1581798027075,
+                        "children": [
+                            {
+                                "string": "We need to expand the tree on this. It's too early to assume there's \"one thing\" under all this (or that treating as \"one thing\" would be an effective level of abstraction for the foreseeable future)",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581798036346,
+                                "uid": "1ryivfY9c",
+                                "edit-time": 1582760022744,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "PMmGcqabV",
+                        "edit-time": 1582760022744,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "ESkpr_uq0",
+                "edit-time": 1582760022744,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Vision Statement: \"To exchange ideas with isolated + motivated sensemaking innovators\" - [[Mimetics]] in all forms",
+                "create-email": "bob@bob.com",
+                "create-time": 1581798192327,
+                "uid": "z8w4VG7-q",
+                "edit-time": 1582760076623,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Idea: Should we have a sensemaking summit?",
+                "create-email": "alice@alice.com",
+                "create-time": 1581797639335,
+                "children": [
+                    {
+                        "string": "Question: Does this already exist? Should we look for such a thing? There are numerous futurism groups. ( potentially inquire with Sean Murphy, as he's been attending this sort of thing for literally decades)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1581798008672,
+                        "uid": "becNo0GSt",
+                        "edit-time": 1582760022743,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Notes for possible sensemaking summit:",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1581798075344,
+                        "children": [
+                            {
+                                "string": "Heuristics for invitation (consider leverage, information/differentiation per specificity, small, incisive, and low-abstraction (far \"down the tree\", specific))",
+                                "create-email": "bob@bob.com",
+                                "create-time": 1581797857192,
+                                "children": [
+                                    {
+                                        "string": "Evidence of skin in the game, sacrifice",
+                                        "create-email": "alice@alice.com",
+                                        "create-time": 1581797740796,
+                                        "uid": "ur9Jo3Ig9",
+                                        "edit-time": 1582760022743,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "di_kRGPRl",
+                                "edit-time": 1582760022743,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "classifications/clusters:",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1581797746687,
+                                "children": [
+                                    {
+                                        "string": "Political operation",
+                                        "create-email": "alice@alice.com",
+                                        "create-time": 1581797750227,
+                                        "children": [
+                                            {
+                                                "string": "In touch with the \"real world\", stuff happening \"on the ground\"",
+                                                "create-email": "bob@bob.com",
+                                                "create-time": 1581797795285,
+                                                "uid": "YXbIzNqn5",
+                                                "edit-time": 1582760022743,
+                                                "edit-email": "alice@alice.com"
+                                            }
+                                        ],
+                                        "uid": "gbGH0rbBz",
+                                        "edit-time": 1582760022743,
+                                        "edit-email": "alice@alice.com"
+                                    },
+                                    {
+                                        "string": "Futurism / philosophy of human transcendence",
+                                        "create-email": "alice@alice.com",
+                                        "create-time": 1581797755878,
+                                        "uid": "7ar7plKln",
+                                        "edit-time": 1582760022743,
+                                        "edit-email": "alice@alice.com"
+                                    },
+                                    {
+                                        "string": "Technology / Techne",
+                                        "create-email": "alice@alice.com",
+                                        "create-time": 1581797763279,
+                                        "children": [
+                                            {
+                                                "string": "Note: \"Technology\" doesn't necessarily entail computers/internet",
+                                                "create-email": "alice@alice.com",
+                                                "create-time": 1581797859070,
+                                                "uid": "TeDn5ZEId",
+                                                "edit-time": 1582760022743,
+                                                "edit-email": "alice@alice.com"
+                                            }
+                                        ],
+                                        "uid": "Vzkq7XD8f",
+                                        "edit-time": 1582760022743,
+                                        "edit-email": "alice@alice.com"
+                                    },
+                                    {
+                                        "string": "sociologists",
+                                        "create-email": "alice@alice.com",
+                                        "create-time": 1581797774046,
+                                        "uid": "A8kERiLTZ",
+                                        "edit-time": 1582760022743,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "OHtsDIKMa",
+                                "edit-time": 1582760022743,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "PwaB3jY-E",
+                        "edit-time": 1582760022743,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Sensemakers of the world, unite!",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1581797728395,
+                        "uid": "ZrqIVEuKt",
+                        "edit-time": 1582760022743,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "XAbCDrNnH",
+                "edit-time": 1582760022744,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896066,
+        "title": "Wallclock",
+        "children": [
+            {
+                "string": "Wallclock Time",
+                "create-email": "alice@alice.com",
+                "create-time": 1582751350462,
+                "children": [
+                    {
+                        "string": "Civil time, as described by UTC or some other convention of physical timekeeping",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582751307583,
+                        "uid": "XaOnlJsOA",
+                        "edit-time": 1582757896166,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "UVl7uBkHF",
+                "edit-time": 1582757896166,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582757896174,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896053,
+        "title": "Pony",
+        "edit-time": 1582757896170,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896063,
+        "title": "Roam",
+        "edit-time": 1582757896174,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896066,
+        "title": "February 25th, 2020",
+        "edit-time": 1582757896174,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582757896067,
+        "title": "February 24th, 2020",
+        "edit-time": 1582757896174,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582758374910,
+        "title": "CRDT",
+        "children": [
+            {
+                "string": "#Research",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759126766,
+                "children": [
+                    {
+                        "string": "[State-based CRDTs: Bounded Counter](https://bartoszsypytkowski.com/state-based-crdts-bounded-counter/) [[Bartosz Sypytkowski]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582759131378,
+                        "uid": "6-UkEolgP",
+                        "edit-time": 1582759134895,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "Rjq005CMm",
+                "edit-time": 1582759131394,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582758374925,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582758542139,
+        "title": "Bartosz Sypytkowski",
+        "children": [
+            {
+                "string": "FP/CRDT person",
+                "create-email": "alice@alice.com",
+                "create-time": 1582758578730,
+                "uid": "xFEv2k2Ut",
+                "edit-time": 1582758585081,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Personal website: https://bartoszsypytkowski.com",
+                "create-email": "alice@alice.com",
+                "create-time": 1582758553002,
+                "uid": "0QJZIdiFt",
+                "edit-time": 1582758560545,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Twitter handle: https://twitter.com/Horusiath",
+                "create-email": "alice@alice.com",
+                "create-time": 1582758562763,
+                "uid": "T4SCmrWoM",
+                "edit-time": 1582758574037,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582758542153,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582758879889,
+        "title": "Mathematics",
+        "children": [
+            {
+                "string": "Subject Matter, Notation, Terminology #Questions",
+                "create-email": "alice@alice.com",
+                "create-time": 1582758897612,
+                "children": [
+                    {
+                        "string": "What does exponentiation of a set mean? Eg:  `ℝ²` (the wikipedia article on Set exponentiation redirects to a fairly inpenetrable passage)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582746449060,
+                        "children": [
+                            {
+                                "string": "Is it the set of all sequential 2-tuples of ℝ? EG `{ [1,2], [2,3], [3,4]... }`",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582746591373,
+                                "uid": "_xra__VWx",
+                                "edit-time": 1582760388786,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "2lLbvLvpw",
+                        "edit-time": 1582760357001,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "What is a Basis (as in vector space / function space)? Again, wikipedia's definition seems to be maddeningly fractal",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582746655132,
+                        "uid": "RabcNy8q2",
+                        "edit-time": 1582758923188,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "AEvaj8nll",
+                "edit-time": 1582760289908,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Meta and Learning #Questions",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759794645,
+                "children": [
+                    {
+                        "string": " Is there a place that concisely defines basic math terminology and concepts with examples? especially for a kinestetic/non-visual learner such as myself, the fractal definitions offered by wikipedia are frequently infuriating and impenetrable.",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582746662214,
+                        "children": [
+                            {
+                                "string": "Why are simple, concrete examples so fucking hard to come by? I know that folks don't want to be reductive, but you could just say, \"this example exercises but a single expression of the idea, and does not represent it in full\" >_>",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582747509558,
+                                "children": [
+                                    {
+                                        "string": "Is there a word for this?",
+                                        "create-email": "alice@alice.com",
+                                        "create-time": 1582747623327,
+                                        "children": [
+                                            {
+                                                "string": "One way to think of it is like tent poles:",
+                                                "create-email": "alice@alice.com",
+                                                "create-time": 1582747799160,
+                                                "children": [
+                                                    {
+                                                        "string": "Putting up a single pole doesn't tell you very much about the tent's shape.",
+                                                        "create-email": "alice@alice.com",
+                                                        "create-time": 1582747805607,
+                                                        "uid": "h7Ub_R_7X",
+                                                        "edit-time": 1582759822637,
+                                                        "edit-email": "alice@alice.com"
+                                                    },
+                                                    {
+                                                        "string": "Putting up the second pole tells you a little more about it's shape.",
+                                                        "create-email": "alice@alice.com",
+                                                        "create-time": 1582747820040,
+                                                        "uid": "iu23R1MWF",
+                                                        "edit-time": 1582759822637,
+                                                        "edit-email": "alice@alice.com"
+                                                    },
+                                                    {
+                                                        "string": "Putting up the third pole tells you a LOT about its shape.",
+                                                        "create-email": "alice@alice.com",
+                                                        "create-time": 1582747823911,
+                                                        "uid": "pcK-UjgT-",
+                                                        "edit-time": 1582759822637,
+                                                        "edit-email": "alice@alice.com"
+                                                    },
+                                                    {
+                                                        "string": "Putting up the fourth pole tells you more about the tent's shape, but not quite as much as the third",
+                                                        "create-email": "alice@alice.com",
+                                                        "create-time": 1582747636453,
+                                                        "uid": "I-qCuZ3PB",
+                                                        "edit-time": 1582759822637,
+                                                        "edit-email": "alice@alice.com"
+                                                    },
+                                                    {
+                                                        "string": ".. and so on.",
+                                                        "create-email": "alice@alice.com",
+                                                        "create-time": 1582747876086,
+                                                        "children": [
+                                                            {
+                                                                "string": "Obviously a tent being a three dimensional structure, the third tent pole is the most valuable. Other intellectual edifices will have a differing numbers of useful dimensions for tracing their contours, but I think the principle may generalize.",
+                                                                "create-email": "alice@alice.com",
+                                                                "create-time": 1582748093291,
+                                                                "uid": "8QVhEHXNk",
+                                                                "edit-time": 1582759822637,
+                                                                "edit-email": "alice@alice.com"
+                                                            }
+                                                        ],
+                                                        "uid": "rvx5OjwJO",
+                                                        "edit-time": 1582759822637,
+                                                        "edit-email": "alice@alice.com"
+                                                    }
+                                                ],
+                                                "uid": "F0z16NSf1",
+                                                "edit-time": 1582759822638,
+                                                "edit-email": "alice@alice.com"
+                                            }
+                                        ],
+                                        "uid": "7GP4ceFaR",
+                                        "edit-time": 1582759822638,
+                                        "edit-email": "alice@alice.com"
+                                    },
+                                    {
+                                        "string": "((_9QQamJum))",
+                                        "create-email": "alice@alice.com",
+                                        "create-time": 1582747304515,
+                                        "uid": "ZlB4U5l-A",
+                                        "edit-time": 1582759905092,
+                                        "edit-email": "alice@alice.com"
+                                    },
+                                    {
+                                        "string": "",
+                                        "create-email": "alice@alice.com",
+                                        "create-time": 1582759905080,
+                                        "uid": "h2i6owt1h",
+                                        "edit-time": 1582759905080,
+                                        "edit-email": "alice@alice.com"
+                                    }
+                                ],
+                                "uid": "nSN-f2IqZ",
+                                "edit-time": 1582759822638,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "AhPmXEC9s",
+                        "edit-time": 1582759822638,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "q7VChdd0x",
+                "edit-time": 1582759821298,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "#Research",
+                "create-email": "alice@alice.com",
+                "create-time": 1582758885163,
+                "children": [
+                    {
+                        "string": "[Hopf Fibration](https://en.wikipedia.org/wiki/Hopf_fibration)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582758202940,
+                        "children": [
+                            {
+                                "string": "[Eric Weinstein discussion](https://www.youtube.com/watch?v=3-E1SdSMipE)",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582758233117,
+                                "uid": "sWcIJ3VkO",
+                                "edit-time": 1582758890146,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "sPkj3eIkl",
+                        "edit-time": 1582758890146,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[Lie Group](https://en.wikipedia.org/wiki/Lie_group)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582758285487,
+                        "uid": "LSMCq8a6N",
+                        "edit-time": 1582758890146,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[Spinor Bundle](https://en.wikipedia.org/wiki/Spinor_bundle)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582758296674,
+                        "uid": "4Gopo2s5W",
+                        "edit-time": 1582758890146,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[Hilbert Space](https://en.wikipedia.org/wiki/Hilbert_space)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582760259223,
+                        "uid": "pMEi6tUa9",
+                        "edit-time": 1582760402609,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "rI-2-LveH",
+                "edit-time": 1582758889110,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582758879907,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582758903097,
+        "title": "Questions",
+        "edit-time": 1582758903102,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Peer to Peer",
+        "children": [
+            {
+                "string": "#Research",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759029893,
+                "children": [
+                    {
+                        "string": "{{[[TODO]]}} Investigate [LibP2P](https://libp2p.io/media/) for possible direct usage / inspiration",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582753899771,
+                        "children": [
+                            {
+                                "string": "Note: Even though it may be easier, I don't want to just blindly use [[LibP2P]] due to some of the factorization decisions it makes. It may be acceptable to use it, but only after the shape of the underlying network infrastructure is solidified.",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582755823715,
+                                "uid": "6-irtTXoZ",
+                                "edit-time": 1582759035400,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "sS5TCdmsm",
+                        "edit-time": 1582759035400,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "rOZPSuW5j",
+                "edit-time": 1582759034798,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759026829,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Privacy and Identity",
+        "children": [
+            {
+                "string": "#Research",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759061830,
+                "children": [
+                    {
+                        "string": "{{[[TODO]]}} Investigate [zk-SNARK](https://z.cash/technology/zksnarks/)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582753928602,
+                        "uid": "ry137064R",
+                        "edit-time": 1582759066695,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582759067408,
+                        "uid": "wk8YOJIKV",
+                        "edit-time": 1582759067408,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "UMDkv9XFg",
+                "edit-time": 1582759065729,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759059478,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582759156880,
+        "title": "UI Frameworks",
+        "children": [
+            {
+                "string": "[Google Fuchsia](https://en.wikipedia.org/wiki/Google_Fuchsia)",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759159756,
+                "uid": "dbuH8rzS2",
+                "edit-time": 1582759161823,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759164734,
+                "uid": "VrauOUlF9",
+                "edit-time": 1582759164734,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759177773,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Merkle Prior Art",
+        "children": [
+            {
+                "string": "#Research",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759216074,
+                "children": [
+                    {
+                        "string": "[Google Fuchsia Merkel Roots](https://fuchsia.dev/fuchsia-src/concepts/storage/merkleroot)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582759219334,
+                        "uid": "m8CkgkdQv",
+                        "edit-time": 1582759221003,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582759220996,
+                        "uid": "Ty0PdIC7X",
+                        "edit-time": 1582759220996,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "qKr7rFm6C",
+                "edit-time": 1582759219341,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759213644,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Zeitgeisty Stuff",
+        "children": [
+            {
+                "string": "[[Outernet]]",
+                "create-email": "alice@alice.com",
+                "create-time": 1582756940028,
+                "children": [
+                    {
+                        "string": "[Gizmodo Article](https://gizmodo.com/what-is-the-outernet-and-is-it-the-future-of-the-intern-1659647614)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582756954473,
+                        "uid": "VKFSzOK-b",
+                        "edit-time": 1582759259156,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "42992E3zy",
+                "edit-time": 1582759259156,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759254996,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Robustness and Interoperability",
+        "children": [
+            {
+                "string": "#Research",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759285784,
+                "children": [
+                    {
+                        "string": "[[IPFS]] [MultiCodec](https://github.com/multiformats/multicodec)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582759288710,
+                        "uid": "WchUVAlpq",
+                        "edit-time": 1582759290457,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "wxSZcFzqN",
+                "edit-time": 1582759288718,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759282824,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Distributed Databases Prior Art",
+        "children": [
+            {
+                "string": "#Research",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759316369,
+                "children": [
+                    {
+                        "string": "[[Redwood]] [Git Repository](https://github.com/brynbellomy/redwood) #golang #offline #clientserver ",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582755976471,
+                        "children": [
+                            {
+                                "string": "Uses [[Braid]]",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582756036636,
+                                "uid": "zBaZZzvCG",
+                                "edit-time": 1582759320773,
+                                "edit-email": "alice@alice.com"
+                            },
+                            {
+                                "string": "{{[[TODO]]}} Investigate ECDSA \"DID\"s",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582756067338,
+                                "uid": "EYKnhCkHE",
+                                "edit-time": 1582759320773,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "VQ-vtEmyf",
+                        "edit-time": 1582759320773,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[TIKV]] [Git Repository](https://github.com/tikv/tikv) #rust #keyvalue #acid",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582756702137,
+                        "uid": "RDthRPqf8",
+                        "edit-time": 1582759320772,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[GunDB]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582756741191,
+                        "uid": "brTKnHIvG",
+                        "edit-time": 1582759320773,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "nReWYv3Dr",
+                "edit-time": 1582759319852,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759313586,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Machine Intelligence",
+        "children": [
+            {
+                "string": "#Research",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759348073,
+                "children": [
+                    {
+                        "string": "Numentia [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://numenta.com/neuroscience-research/research-publications/papers/a-framework-for-intelligence-and-cortical-function-based-on-grid-cells-in-the-neocortex/)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757180350,
+                        "uid": "L_ESHmuyt",
+                        "edit-time": 1582759358222,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "_38ePEZ0q",
+                "edit-time": 1582759354443,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759381418,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Natural Language Processing",
+        "children": [
+            {
+                "string": "#Research",
+                "create-email": "alice@alice.com",
+                "create-time": 1582759458540,
+                "children": [
+                    {
+                        "string": "[Train a GPT-2 Text-Generating Model w/ GPU For Free](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757226315,
+                        "uid": "NP89o2VuB",
+                        "edit-time": 1582759462665,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Hugging Face]]",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582757258210,
+                        "uid": "iVoWbLEgC",
+                        "edit-time": 1582759462665,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "JTvmyFRhg",
+                "edit-time": 1582759461656,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582759455230,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582759866869,
+        "title": "Alice",
+        "edit-time": 1582759866871,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582760076628,
+        "title": "Mimetics",
+        "children": [
+            {
+                "string": "",
+                "create-email": "alice@alice.com",
+                "create-time": 1582760081704,
+                "uid": "nwfKvo6wq",
+                "edit-time": 1582760081704,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582760076639,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Mindbase",
+        "children": [
+            {
+                "string": "What is it?",
+                "create-email": "alice@alice.com",
+                "create-time": 1582760426025,
+                "children": [
+                    {
+                        "string": "Analogical reasoning system, with fine grained recordings",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582760430215,
+                        "uid": "DtXJ73R_2",
+                        "edit-time": 1582760475941,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Initially used in a rudimentary fashion where users navigate data similar to [[ZigZag]] [[Roam]], [[Ideaflow]], etc",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582760476902,
+                        "uid": "8FhvMX-OC",
+                        "edit-time": 1582760577599,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "2jCqq1lB2",
+                "edit-time": 1582760430226,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "#Questions",
+                "create-email": "alice@alice.com",
+                "create-time": 1582760412704,
+                "uid": "DjvvKuLlz",
+                "edit-time": 1582760606051,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Schema",
+                "create-email": "alice@alice.com",
+                "create-time": 1582760606042,
+                "children": [
+                    {
+                        "string": "[[Allegation]] - (User, Date, Context)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582760609660,
+                        "uid": "WgDmGCizW",
+                        "edit-time": 1582760662445,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Analogy]] (Entity X and Y are in the category of Z)",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582760662435,
+                        "uid": "-FN8IQGVD",
+                        "edit-time": 1582760776956,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "[[Pluralization]] All Entities are categories",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582760624498,
+                        "children": [
+                            {
+                                "string": "Start off as singleton categories, then become \"Pluralized\"",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582760838680,
+                                "uid": "B9P2olxwf",
+                                "edit-time": 1582760850168,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "a11SXAySi",
+                        "edit-time": 1582760838693,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582760786994,
+                        "uid": "vPpeJEZ9M",
+                        "edit-time": 1582760786994,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "iounyVj3m",
+                "edit-time": 1582760609668,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582760411526,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582760538954,
+        "title": "Ideaflow",
+        "edit-time": 1582760538962,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582760577602,
+        "title": "ZigZag",
+        "edit-time": 1582760577608,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582760712905,
+        "title": "Analogy",
+        "edit-time": 1582760712914,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582760752826,
+        "title": "Pluralization",
+        "children": [
+            {
+                "string": "All [[Conceptual Entities]] start off as singletons, and eventually become \"Pluralized\" to become categories.",
+                "create-email": "alice@alice.com",
+                "create-time": 1582761081910,
+                "uid": "R3e3akLGy",
+                "edit-time": 1582761119927,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "http://rin.io/on-categories-and-concepts-hofstadter-talk/",
+                "create-email": "alice@alice.com",
+                "create-time": 1582760965232,
+                "children": [
+                    {
+                        "string": "**Conjunctions (logical connectives) are categories**",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582760968336,
+                        "uid": "xGIlBbDH7",
+                        "edit-time": 1582761041061,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "**Idioms are categories**",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582761041025,
+                        "uid": "kALqum6wE",
+                        "edit-time": 1582761057121,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "**The evolution of a category:**",
+                        "children": [
+                            {
+                                "string": "Singleton→Superimposed idea→Pluralization→Label",
+                                "uid": "ttrJEjw69",
+                                "edit-time": 1582761218991,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "XWAHXaksa",
+                        "edit-time": 1582761218991,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "IkElxN7CN",
+                "edit-time": 1582760967697,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582760752832,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582761119933,
+        "title": "Conceptual Entities",
+        "edit-time": 1582761119948,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "title": "Symbol",
+        "children": [
+            {
+                "string": "What is it?\n\nFrom Epistemology / Symbol Manipulation: **Every instance of every thing, thought, abstract entity, or event in the observable universe, is a Symbol**\n",
+                "create-email": "alice@alice.com",
+                "create-time": 1582761245144,
+                "uid": "SY8u3bDRV",
+                "edit-time": 1582761604004,
+                "edit-email": "alice@alice.com"
+            },
+            {
+                "string": "Not just a written glyph/picture/word/letter",
+                "create-email": "alice@alice.com",
+                "create-time": 1582761252139,
+                "children": [
+                    {
+                        "string": "These are symbols too, but they represent an astronomically small subset of existent symbols",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582761533700,
+                        "uid": "lqS56OAIL",
+                        "edit-time": 1582761570600,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Not just ideas",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582761571354,
+                        "uid": "X0DAA_om-",
+                        "edit-time": 1582761574778,
+                        "edit-email": "alice@alice.com"
+                    },
+                    {
+                        "string": "Written and Spoken Language represent the smallest set of symbols, which through sociological processes, have taken on a loosely agreed upon meaning.",
+                        "create-email": "alice@alice.com",
+                        "create-time": 1582761612208,
+                        "children": [
+                            {
+                                "string": "Arguably Culture itself is a [[Teche]] for the establishment of a common symbolic subset which may be used to convey ideas in a (lossy) but functional fashion",
+                                "create-email": "alice@alice.com",
+                                "create-time": 1582761704478,
+                                "uid": "lEkNHO_Xo",
+                                "edit-time": 1582761781945,
+                                "edit-email": "alice@alice.com"
+                            }
+                        ],
+                        "uid": "AtuQM34qJ",
+                        "edit-time": 1582761704491,
+                        "edit-email": "alice@alice.com"
+                    }
+                ],
+                "uid": "WagvkTKLE",
+                "edit-time": 1582761567321,
+                "edit-email": "alice@alice.com"
+            }
+        ],
+        "edit-time": 1582761243310,
+        "edit-email": "alice@alice.com"
+    },
+    {
+        "create-email": "alice@alice.com",
+        "create-time": 1582761731744,
+        "title": "Teche",
+        "edit-time": 1582761731755,
+        "edit-email": "alice@alice.com"
+    }
+]
