@@ -37,18 +37,18 @@ impl<'a> Importer<'a> {
         })
     }
 
-    pub fn parse_pages(&mut self, pages: Vec<Page>) -> Result<(), Error> {
+    pub fn parse_pages(&mut self, pages: &Vec<Page>) -> Result<(), Error> {
         let nodes: Vec<AllegationId> = Vec::new();
         for page in pages {
             let mut relations: Vec<DataNodeRelation> = Vec::new();
 
-            if let Some(children) = page.children {
+            if let Some(ref children) = page.children {
                 self.recurse_children(&mut relations, children)?;
             }
 
             self.mb.alledge(DataNode {
                 node_type: self.c_page.clone(),
-                data: page.title.into_bytes(),
+                data: page.title.clone().into_bytes(),
                 relations,
             })?;
         }
@@ -64,7 +64,7 @@ impl<'a> Importer<'a> {
         Ok(())
     }
 
-    fn recurse_children(&mut self, parent_relations: &mut Vec<DataNodeRelation>, children: Vec<Item>) -> Result<(), Error> {
+    fn recurse_children(&mut self, parent_relations: &mut Vec<DataNodeRelation>, children: &Vec<Item>) -> Result<(), Error> {
         // TODO 1 - use UID lookup
 
         use lazy_static::*;
@@ -79,7 +79,7 @@ impl<'a> Importer<'a> {
 
             let mut item_relations: Vec<DataNodeRelation> = Vec::new();
 
-            if let Some(children) = item.children {
+            if let Some(ref children) = item.children {
                 self.recurse_children(&mut item_relations, children)?;
             }
 
@@ -120,7 +120,7 @@ impl<'a> Importer<'a> {
             })?;
 
             // Store a copy in case anyone is pointing to us
-            self.uid_lookup.insert(item.uid, a_item.id().clone());
+            self.uid_lookup.insert(item.uid.clone(), a_item.id().clone());
 
             // Record the link to the parent
             parent_relations.push(DataNodeRelation {
